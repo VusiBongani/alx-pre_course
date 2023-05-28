@@ -1,1 +1,1 @@
-first Activity
+The edition of first activity
